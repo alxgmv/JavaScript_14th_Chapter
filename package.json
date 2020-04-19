@@ -1,0 +1,30 @@
+{
+  "name": "javascript_14th_chapter",
+  "version": "1.0.0",
+  "main": "index.js",
+  "scripts": {
+    "build": "./node_modules/.bin/webpack",
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/alxgmv/JavaScript_14th_Chapter.git"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/alxgmv/JavaScript_14th_Chapter/issues"
+  },
+  "homepage": "https://github.com/alxgmv/JavaScript_14th_Chapter#readme",
+  "devDependencies": {
+    "@babel/core": "^7.9.0",
+    "@babel/preset-env": "^7.9.5",
+    "@babel/preset-es2015": "^7.0.0-beta.53",
+    "babel-loader": "^8.1.0",
+    "webpack": "^4.42.1",
+    "webpack-cli": "^3.3.11"
+  },
+  "dependencies": {},
+  "description": ""
+}
