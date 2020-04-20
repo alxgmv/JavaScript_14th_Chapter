@@ -1,4 +1,4 @@
-export default class Counter {
+ export default class Counter {
 
   constructor(x) {
     this.counter = x;

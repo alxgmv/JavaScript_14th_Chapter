@@ -1,0 +1,22 @@
+#main {
+  display: flex;
+  flex-direction: column;
+  width: auto;
+  height: auto;
+  background-color: grey;
+}
+
+#button {
+  font-size: 24px;
+  color: white;
+  background-color: black;
+  margin: 30px auto;
+  width: 450px;
+  height: 450px;
+  border-color: black;
+  border-radius: 240px;
+}
+
+#counter {
+  margin: 30px auto;
+}

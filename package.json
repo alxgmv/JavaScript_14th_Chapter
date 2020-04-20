@@ -22,6 +22,7 @@
     "@babel/preset-env": "^7.9.5",
     "@babel/preset-es2015": "^7.0.0-beta.53",
     "babel-loader": "^8.1.0",
+    "babel-preset-env": "^1.7.0",
     "webpack": "^4.42.1",
     "webpack-cli": "^3.3.11"
   },
